@@ -1,10 +1,9 @@
 class Solver
-
-  def factorial(n)
-    if n == 0 || n == 1
+  def factorial(num)
+    if [0, 1].include?(num)
       1
     else
-      n * factorial(n - 1)
+      num * factorial(num - 1)
     end
   end
 
@@ -13,12 +12,12 @@ class Solver
   end
 
   def fizzbuzz(num)
-    if num % 3 == 0 && num % 5 == 0
-      "fizzbuzz"
-    elsif num % 5 == 0
-      "buzz"
-    elsif num % 3 == 0
-      "fizz"
+    if (num % 3).zero? && (num % 5).zero?
+      'fizzbuzz'
+    elsif (num % 5).zero?
+      'buzz'
+    elsif (num % 3).zero?
+      'fizz'
     else
       num.to_s
     end

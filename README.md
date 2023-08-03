@@ -2,7 +2,7 @@
 
 <div align="center">
   <br/>  
-  <h2><b>TDD</b></h2>
+  <h2><b>Test-driven development (TDD)</b></h2>
 <!--  -->
 </div>
 # 📗 Table of Contents
@@ -29,13 +29,14 @@
 
 <br>
 
-# 📖 OOP School Library App <a name="API-based webapp"></a>
+# 📖 TDD <a name="Test-driven development (TDD)"></a>
 
-> OOP School Library App is a tool to record what books are in a library and who borrows them. The app will allow the user to:
+> Test-driven development (TDD) In this project there is implemented a class with some methods, write tests first and then the code
 >
-> - Add new students or teachers
-> - Add new books
-> - Save records of who borrowed a given book and when.
+> - Add new test
+> - Failing test
+> - Add code
+> - Passing test
 >   <br>
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -91,6 +92,7 @@
 ```sh
   cd TDD
   bundle install
+  gem install rspec
 ```
 
 ### Usage

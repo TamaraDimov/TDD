@@ -1,2 +1,151 @@
-# TDD
-In this project you will implement a class with some methods, but you will do it by doing test-driven development (TDD).
+<a name="readme-top"></a>
+
+<div align="center">
+  <br/>  
+  <h2><b>TDD</b></h2>
+<!--  -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+    <!-- - [🚀 Live Demo](#live-demo) -->
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
+- [📝 License](#license)
+
+<br>
+
+# 📖 OOP School Library App <a name="API-based webapp"></a>
+
+> OOP School Library App is a tool to record what books are in a library and who borrows them. The app will allow the user to:
+>
+> - Add new students or teachers
+> - Add new books
+> - Save records of who borrowed a given book and when.
+>   <br>
+
+## 🛠 Built With <a name="built-with"></a>
+
+- Ruby
+- TDD
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
+  </ul>
+</details>
+<br>
+
+### Key Features <a name="key-features"></a>
+
+- TDD
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
+<!-- >[Live Demo](https://airmetrics.onrender.com) -->
+
+<!-- > [Video Presentation](https://www.loom.com/share/2ad53b4776e94f43bb9c464cf7a63c5e?sid=014845e4-9b2d-4449-9e89-59e30a0f64d4) -->
+<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+1. Interactive Ruby shell (IRB).
+2. Code Editor.
+3. Tests
+
+### Setup
+
+> To clone this repository to your desired folder, run this command:
+
+```sh
+  cd my-folder
+  git clone https://github.com/TamaraDimov/TDD.git
+```
+
+### Install
+
+> Run this command:
+
+```sh
+  cd TDD
+  bundle install
+```
+
+### Usage
+
+> Run the code
+
+### Run tests
+
+> comming soon
+
+<!-- ### Deployment
+> npm run build -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Author <a name="authors"></a>
+
+👤 **Tamara Dimov**
+
+- GitHub: [@TamaraDimov](https://github.com/TamaraDimov)
+- LinkedIn: [Tamara Dimov](https://www.linkedin.com/in/tamara-dimov-b85139a2/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+👤 Christian Romuald MOMO TONFACK
+
+- GitHub: [@githubhandle](https://github.com/Momo-87)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/christian-momo/)
+- Twitter: [@twitterhandle](https://twitter.com/Momo_yde)
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] New tests and methods
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+> Contributions, issues, and feature requests are welcome!
+> Feel free to check the [issues page](https://github.com/TamaraDimov/TDD/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project just give it a star ⭐️.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> I would like to thank Microverse comnunity for their supports.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+> This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>

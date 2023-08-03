@@ -3,7 +3,7 @@
 <div align="center">
   <br/>  
   <h2><b>Test-driven development (TDD)</b></h2>
-<!--  -->
+
 </div>
 # 📗 Table of Contents
 
@@ -11,20 +11,17 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
 
 <br>
@@ -59,12 +56,6 @@
 - TDD
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
-<!-- >[Live Demo](https://airmetrics.onrender.com) -->
-
-<!-- > [Video Presentation](https://www.loom.com/share/2ad53b4776e94f43bb9c464cf7a63c5e?sid=014845e4-9b2d-4449-9e89-59e30a0f64d4) -->
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -101,10 +92,8 @@
 
 ### Run tests
 
-> comming soon
+> rspec spec/solver_spec.rb
 
-<!-- ### Deployment
-> npm run build -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name="authors"></a>

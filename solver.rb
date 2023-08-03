@@ -1,5 +1,7 @@
 class Solver
   def factorial(num)
+    raise StandardError, 'Invalid number' if num.negative?
+
     if [0, 1].include?(num)
       1
     else
